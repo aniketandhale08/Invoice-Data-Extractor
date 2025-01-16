@@ -7,13 +7,9 @@
 - **Natural Language Processing (NLP)**: We have used **regular expressions** for pattern matching and word matching in text, enabling efficient text processing and extraction.
 - **PyMuPDF**: A Python library used for **text extraction** from PDF documents, making it easier to work with data stored in PDF format.
 
-### Architecture Diagram
+### Diagram
 
-![Architecture Diagram](path/to/architecture-diagram.png)
-
-
-
-
+![Screenshot 2025-01-17 045047 (1)](https://github.com/user-attachments/assets/69f6f4dd-4149-4dac-a141-80bdd89e3625)
 
 
 
