@@ -19,7 +19,7 @@
 ## Project Structure
 
 # Project Structure
-
+```
 invoice-data-extractor/
 ├── flaskapp.py              # Main Python file for the Flask application
 ├── requirements.txt         
@@ -30,7 +30,7 @@ invoice-data-extractor/
 │   │   └── style.css       
 │   ├── js                   
 │   │   └── script.js       
-
+```
 
 ## How to Run the App Locally  
 Follow these steps to run the app on your local machine:  
