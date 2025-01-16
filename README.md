@@ -25,7 +25,7 @@
 
 ---
 
-### Diagram
+### Flowchart
 
 ![Support process example](https://github.com/user-attachments/assets/48bc2ba4-8ba4-427a-9c88-58012e31f07b)
 
