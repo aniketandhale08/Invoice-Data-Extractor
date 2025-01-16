@@ -2,6 +2,31 @@
 
 **Invoice Data Extractor** is a Flask-based web application that processes PDF invoices, extracts key information such as customer name, address, order details, and generates an Excel file for easy analysis.  
 
+- **Flask**: A lightweight web framework used for building Python applications, allowing for fast and scalable development of web-based applications.
+- **Google Cloud Platform (GCP)**: Specifically, we have used **App Engine**, a serverless platform for hosting web applications, providing automatic scaling and simplified deployment.
+- **Natural Language Processing (NLP)**: We have used **regular expressions** for pattern matching and word matching in text, enabling efficient text processing and extraction.
+- **PyMuPDF**: A Python library used for **text extraction** from PDF documents, making it easier to work with data stored in PDF format.
+
+### Architecture Diagram
+
+![Architecture Diagram](path/to/architecture-diagram.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Features  
 - Upload multiple PDF invoices at once.  
 - Extract critical invoice details such as:  
