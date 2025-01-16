@@ -16,6 +16,22 @@
 
 ---
 
+## Project Structure
+
+# Project Structure
+
+invoice-data-extractor/
+├── flaskapp.py              # Main Python file for the Flask application
+├── requirements.txt         
+├── templates/               
+│   └── index.html           
+├── static/                  
+│   ├── CSS                  
+│   │   └── style.css       
+│   ├── js                   
+│   │   └── script.js       
+
+
 ## How to Run the App Locally  
 Follow these steps to run the app on your local machine:  
 
@@ -45,7 +61,6 @@ pip install -r requirements.txt
 ```bash
 python flaskapp.py
 ```
-
 
 ### 5. Access the Application
 Open your browser and go to:  
