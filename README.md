@@ -27,7 +27,7 @@
 
 ### Diagram
 
-![Support process example](https://github.com/user-attachments/assets/9c40f8f6-3cd8-4846-bd6c-56fdc53ee70e)
+![Support process example](https://github.com/user-attachments/assets/48bc2ba4-8ba4-427a-9c88-58012e31f07b)
 
 ## Project Structure
 
