@@ -11,18 +11,6 @@
 
 ![Screenshot 2025-01-17 045047 (1)](https://github.com/user-attachments/assets/69f6f4dd-4149-4dac-a141-80bdd89e3625)
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Features  
 - Upload multiple PDF invoices at once.  
 - Extract critical invoice details such as:  
@@ -36,6 +24,10 @@
 - Download extracted data in Excel format.  
 
 ---
+
+### Diagram
+
+![Support process example](https://github.com/user-attachments/assets/9c40f8f6-3cd8-4846-bd6c-56fdc53ee70e)
 
 ## Project Structure
 
