@@ -18,7 +18,6 @@
 
 ## Project Structure
 
-# Project Structure
 ```
 invoice-data-extractor/
 ├── flaskapp.py              # Main Python file for the Flask application
