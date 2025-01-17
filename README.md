@@ -56,7 +56,7 @@ Follow these steps to run the app on your local machine:
 
 ### Steps 
 
-1. **Clone the Repository**  
+### 1. Clone the Repository  
  ```bash
  git clone https://github.com/your-repo/invoice-data-extractor.git
 ```
