@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    text-align: center;
+}
+.container {
+    margin: 50px auto;
+    padding: 20px;
+    max-width: 600px;
+    background: #ffffff;
+    box-shadow: 0px 0px 10px 0px #cccccc;
+    border-radius: 10px;
+}
+h1 {
+    color: #333;
+}
+p {
+    color: #666;
+    font-size: 14px;
+}
+input[type="file"] {
+    margin: 20px 0;
+}
+.file-list {
+    margin: 10px 0;
+    text-align: left;
+    font-size: 14px;
+    color: #444;
+}
+.file-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+    background-color: #f9f9f9;
+    padding: 5px;
+    border-radius: 5px;
+}
+.file-item button {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.file-item button:hover {
+    background-color: #e60000;
+}
+input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+input[type="submit"]:hover {
+    background-color: #45a049;
+}

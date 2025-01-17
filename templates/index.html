@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+    <title>Invoice Data Extractor</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Invoice Data Extractor</h1>
+        <p>Upload PDF invoices to extract data and download it as an Excel file.</p>
+        <form method="post" enctype="multipart/form-data">
+            <input type="file" id="file-input" name="files[]" multiple onchange="updateFileList()">
+            <div id="file-list-container" class="file-list"></div>
+            <br>
+            <input type="submit" value="Process and Download Excel File">
+        </form>
+    </div>
+</body>
+</html>
